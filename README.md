@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/VZ7X/FakeCallPro-Asterisk/main/banner.gif" alt="FakeCallPro Banner" />
 </p>
-
 # 🎧 FakeCallPro-Asterisk
 
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
